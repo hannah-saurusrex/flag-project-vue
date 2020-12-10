@@ -3,6 +3,13 @@
     <!-- <section>
       <header></header>
     </section> -->
+
+    <!-- TO DOS: 
+      1. break header down into a component
+      2. break search and dropdown level into a component
+      3. make API call
+      4. darkmode in vue....  make that work
+    -->
     <header>
       <div class="container">
         <h1>Where in the world?</h1>
